@@ -4,7 +4,7 @@ import time
 from bs4 import BeautifulSoup
 import json
 import csv
-filecsv = open('SouqDataapple.csv', 'w', encoding='utf8')
+filecsv = open('amzonGundam.csv', 'w', encoding='utf8')
 # Set the URL you want to webscrape from
 url = 'https://www.amazon.sa/s?k=gundam&i=toys&rh=n%3A12463618031&dc&crid=2J8D038E4V5IH&qid=1608914391&rnid=17120842031&sprefix=gund%2Caps%2C236&ref=sr_pg_3&page='
 file = open('amzonGundam.json', 'w', encoding='utf8')

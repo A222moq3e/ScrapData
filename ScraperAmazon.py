@@ -10,6 +10,7 @@ optionChose = "0"
 pageRange = 500
 minPrice = 0
 maxPrice = 999999999
+# not in filter right now
 starzItem = "anything"
 
 # the creat class items
